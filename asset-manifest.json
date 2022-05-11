@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rohant79.github.io/csb-uqluv3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rohant79.github.io/csb-uqluv3/static/js/main.ec134e50.chunk.js",
+    "main.js.map": "https://rohant79.github.io/csb-uqluv3/static/js/main.ec134e50.chunk.js.map",
+    "runtime-main.js": "https://rohant79.github.io/csb-uqluv3/static/js/runtime-main.dead8ecd.js",
+    "runtime-main.js.map": "https://rohant79.github.io/csb-uqluv3/static/js/runtime-main.dead8ecd.js.map",
+    "static/js/2.2b36a3a5.chunk.js": "https://rohant79.github.io/csb-uqluv3/static/js/2.2b36a3a5.chunk.js",
+    "static/js/2.2b36a3a5.chunk.js.map": "https://rohant79.github.io/csb-uqluv3/static/js/2.2b36a3a5.chunk.js.map",
+    "index.html": "https://rohant79.github.io/csb-uqluv3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rohant79.github.io/csb-uqluv3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2b36a3a5.chunk.js.LICENSE.txt": "https://rohant79.github.io/csb-uqluv3/static/js/2.2b36a3a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dead8ecd.js",
+    "static/js/2.2b36a3a5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ec134e50.chunk.js"
+  ]
+}
